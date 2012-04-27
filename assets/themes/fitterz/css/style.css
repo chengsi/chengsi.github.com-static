@@ -1,0 +1,151 @@
+/* Override some defaults */
+html, body {
+  background-color: #eee;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+hr {
+  clear: both;
+}
+
+.nav {
+  text-align: center;
+}
+.nav li {
+  display: inline-block;
+}
+.nav li a {
+  display: inline;
+}
+.navbar {
+  margin-bottom: 0;
+}
+.container > footer {
+  margin-top: 20px;
+}
+.container > footer p {
+  text-align: center; /* center align it with the container */
+}
+
+/* The white background content wrapper */
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+/* Page header tweaks */
+.page-header {
+  background-color: #f5f5f5;
+  padding: 20px 20px 10px;
+  margin: -20px -20px 20px;
+}
+
+.date {
+  float: left;
+  margin-top: 10px;
+  padding: 0 0 20px 0;
+}
+
+
+.share {
+  float: none;
+  text-align: center;
+  display: inline-block;
+  width: 50%;
+}
+
+.fb-like {
+  float: none;
+  display: inline-block;
+  padding-right: 56px;
+}
+
+.twitter-share-button {
+  padding-right: 28px;
+  margin-bottom: -1px;
+}
+
+
+#___plusone_0 {
+
+}
+
+.pagination a.feed-icon {
+  padding-right: 4px;
+  float: none;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.pagination a {
+  border: none;
+}
+
+
+
+.prev {
+  float: left;
+  display: inline;
+}
+
+.next {
+  float: right;
+  display: inline;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding: 0 0 5px 0 ;
+	overflow:hidden;
+	display: inline-block;
+	float: right;
+}
+.tag_box li {
+	line-height:28px;
+	display: inline;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color:#888888;
+	border-radius: 3px;
+	text-decoration:none;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}
+	

@@ -1,0 +1,12 @@
+
+/about/index.html
+/archive/index.html
+/atom.xml
+/categories/index.html
+/index.html
+/pages/index.html
+/sitemap.txt
+/tags/index.html
+
+/2012/04/27/aiweiwei-wikipedia
+/2012/04/25/so-sorry

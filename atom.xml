@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>WeiWeiWeb</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2012-04-27T07:03:04-04:00</updated>
+ <id></id>
+ <author>
+   <name>Cheng Si</name>
+   <email>chengsi258@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Ai WeiWei on Wikipedia</title>
+   <link href="/2012/04/27/aiweiwei-wikipedia"/>
+   <updated>2012-04-27T00:00:00-04:00</updated>
+   <id>/2012/04/27/aiweiwei-wikipedia</id>
+   <content type="html">&lt;iframe src='http://en.wikipedia.org/wiki/Ai_Weiwei' frameborder='0' height='528' width='940'&gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href='http://en.wikipedia.org/wiki/Ai_Weiwei'&gt;Ai Weiwei on Wikipedia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Editing a Wikipedia entry is simple. &lt;a href='http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;amp;returnto=Ai+Weiwei'&gt;Create an account&lt;/a&gt;. &lt;a href='http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;amp;returnto=Ai+Weiwei'&gt;Login to Wikipedia&lt;/a&gt;. Start editing an &lt;a href='http://en.wikipedia.org/wiki/Ai_Weiwei]'&gt;article&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>So Sorry</title>
+   <link href="/2012/04/25/so-sorry"/>
+   <updated>2012-04-25T00:00:00-04:00</updated>
+   <id>/2012/04/25/so-sorry</id>
+   <content type="html">&lt;iframe src='http://player.vimeo.com/video/40648828' frameborder='0' height='528' width='940'&gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href='http://vimeo.com/40648828'&gt;So Sorry&lt;/a&gt; from &lt;a href='http://vimeo.com/user11131720'&gt;aiweiweistudio&lt;/a&gt; on &lt;a href='http://vimeo.com'&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a sequel to Ai Weiwei&amp;#8217;s film Lao Ma Ti Hua, the film So Sorry (named after the artist&amp;#8217;s 2009 exhibition in Munich, Germany) shows the beginnings of the tension between Ai Weiwei and the Chinese Government. In Lao Ma Ti Hua, Ai Weiwei travels to Chengdu, China to attend the trial of the civil rights advocate Tan Zuoren, as a witness. In So Sorry, you see the investigation led by Ai Weiwei studio to identify the students who died during the Sichuan earthquake as a result of corruption and poor building constructions leading to the confrontation between Ai Weiwei and the Chengdu police. After being beaten by the police, Ai Weiwei traveled to Munich, Germany to prepare his exhibition at the museum, Haus der Kunst. The result of his beating led to intense headaches caused by a brain hemorrhage and was treated by emergency surgery. These events mark the beginning of Ai Weiwei&amp;#8217;s struggle and surveillance at the hands of the state police.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
