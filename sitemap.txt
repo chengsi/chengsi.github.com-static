@@ -8,5 +8,4 @@
 /sitemap.txt
 /tags/index.html
 
-/2012/04/27/aiweiwei-wikipedia
-/2012/04/25/so-sorry
+/2012/05/10/so-sorry
